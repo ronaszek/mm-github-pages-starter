@@ -2,9 +2,16 @@
 permalink: /about/
 title: "About"
 header:
-  teaser: https://costiui.ml/images/costiui2020.jpg
+  teaser: "https://costiui.ml/images/costiui2020.jpg"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+#### Despre Coștiui - Rónaszék -Коштіль.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+![Costiui](https://costiui.ml/images/costiui2020.jpg "Coștiui - Rónaszék -Коштіль")
+
+### Coștiui (în maghiară Rónaszék și în ucraineană Коштіль) este un sat în comuna Rona de Sus din județul Maramureș, Transilvania, România.
+
+## »Coștiui este un sat în comuna Rona de Sus din judeţul Maramureş, Transilvania, România.«
+## Satul Costiui este situat în nordul României, în Depresiunea Maramuresului, fiind marginit de localitatea Bârsana în Sud, localitatea Valea Stejarului în Sud-Vest, localitatea Petrova în Est si localitatea Rona de Sus în Vest.
+## Satul Costiui se situeaza pe DN186A, la o distanta de 20 de km de municipiul Sighetu Marmatiei, 47 de km de orasul Viseu de Sus si 80 de km de municipiul Baia Mare.
+
