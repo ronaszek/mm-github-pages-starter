@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /despre/
+title: "Despre"
 header:
   teaser: "https://costiui.ml/images/costiui2020.jpg"
 ---
