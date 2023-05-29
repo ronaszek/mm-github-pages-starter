@@ -25,7 +25,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
 search: true
-teaser: https://kiwichat.ml/assets/images/teaser-image.png
+teaser: "https://kiwichat.ml/assets/images/teaser-image.png"
 
 # Build settings
 markdown: kramdown
