@@ -1,13 +1,17 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+date: 2019-12-23 12:50:11 
+last_modified_at: 2019-12-24 22:53:42
+header: 
+ overlay_image: https://kiwichat.ml/assets/images/teaser-image.png
+ teaser: https://kiwichat.ml/assets/images/teaser-image.png
+ caption: Welcome
+ overlay_filter: 0.3
 categories:
   - blog
 tags:
   - Jekyll
   - update
-header:
-  teaser: "https://kiwichat.ml/assets/images/teaser-image.png"
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
