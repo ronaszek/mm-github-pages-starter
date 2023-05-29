@@ -25,7 +25,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
 search: true
-teaser: "/assets/images/ronaszek.png"
+teaser: "/assets/images/costiui.png"
 logo:  "/assets/images/logo.png"
 # Build settings
 markdown: kramdown
