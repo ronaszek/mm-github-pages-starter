@@ -61,9 +61,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Coștiui Rónaszék"
   avatar : "/assets/images/ronaszek.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Biografia mea, limitată la o propoziție sau două."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
