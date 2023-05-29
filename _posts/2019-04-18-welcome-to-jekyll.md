@@ -3,7 +3,7 @@ title: "Welcome to Jekyll!"
 date: 2019-12-23 12:50:11 
 last_modified_at: 2019-12-24 22:53:42
 header: 
- overlay_image: https://kiwichat.ml/assets/images/teaser-image.png
+ overlay_image: https://kiwichat.ml/assets/images/kiwichat.png
  teaser: https://kiwichat.ml/assets/images/teaser-image.png
  caption: Welcome
 # overlay_filter: 0.3
