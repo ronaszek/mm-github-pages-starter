@@ -17,13 +17,13 @@ intro:
 
 feature_row:
   - title: "Article Collection"
-    image_path: https://via.placeholder.com/500x300
+    image_path: https://costiui.ml/images/costiui2020.jpg
     excerpt: "I write regularly on church and missions, both international and North American. You can find all of my articles here by year."
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Citește mai departe"
   - title: "Commonplace Book"
-    image_path: https://via.placeholder.com/500x300
+    image_path: https://costiui.ml/images/panoramic_baile.jpg
     excerpt: "My commonplace book is where I do my thinking in public. You can explore my public notes on any number of topics."
     url: "https://costiui.ml"
     btn_class: "btn--primary"
