@@ -6,7 +6,7 @@ header:
  overlay_image: https://kiwichat.ml/assets/images/teaser-image.png
  teaser: https://kiwichat.ml/assets/images/teaser-image.png
  caption: Welcome
- overlay_filter: 0.3
+# overlay_filter: 0.3
 categories:
   - blog
 tags:
