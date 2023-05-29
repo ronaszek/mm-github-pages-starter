@@ -1,0 +1,113 @@
+- selector: slider1
+  bullets: true
+  captions: true
+  images:
+    - src: https://costiui.ml//images/costiui2020.jpg
+      title: Fotografi Costiui
+      alt: Foto.Costiui.ml
+      href: https://foto.costiui.ml
+      
+    - src: https://costiui.ml//images/padurea_costiui.jpg
+      title: Pădurea de Larice
+      alt: Pădurea de larice Coștiui
+      href: https://costiui.ml/rezervatie-naturala/padurea-de-larice
+      
+    - data-src: https://costiui.ml//images/costiui2020.jpg
+      title: About
+      alt: Despre Costiui.ml
+      href: https://about.costiui.ml
+      
+    - data-src: https://costiui.ml//images/ronaszek-kep.jpg
+      title: Video Costiui
+      alt: Filmare cu Dron Costiui
+      href: https://costiui.ml/video/filmari-cu-drona
+      
+    - src: https://costiui.ml//images/ronaszek-tajkep.jpg
+      title: Poze cu Drona
+      alt: Fotografie aeriană cu drona
+      href: https://costiui.ml/fotografi/poze-cu-drona
+      
+    - src: https://costiui.ml//images/castelul-apaffi.jpg
+      title: Castelul Apaffi
+      alt: Castelul Apaffi Costiui
+      href: https://costiui.ml/monument-istoric/castelul-apaffi
+      
+    - src: https://costiui.ml//images/sfi.JPG
+      title: Sfântul Ioan Nepomuk
+      alt: Statuia Sfântul Ioan Nepomuk din Coștiui
+      href: https://costiui.ml/monument-istoric/sfantul-ioan-nepomuk
+      
+    - src: https://costiui.ml//images/biserica-rc-costiui.jpg
+      title: Biserica Romano Catolica
+      alt: Biserica Romano Catolica Sf. Ioan din Costiui
+      href: https://costiui.ml/biserica/romano-catolica
+      
+    - src: https://costiui.ml//images/biserica.jpg
+      title: Biserica Greco Catolică
+      alt: Biserica Greco Catolică din Coștiui
+      href: https://costiui.ml/biserica/greco-catolica
+      
+    - src: https://costiui.ml//images/biserica-calvaria.jpg
+      title: Biserica Calvaria
+      alt: Biserica Calvaria din Coștiui
+      href: https://costiui.ml/biserica/calvaria
+      
+    - src: https://costiui.ml//images/capela-sf-ana.jpg
+      title: Capela Sf. Ana
+      alt: Capela Sf. Ana din Coștiui
+      href: https://costiui.ml/capela/sf-ana
+      
+    - src: https://costiui.ml//images/capela-fecioara-maria-costiui.jpg
+      title: Capela Fecioara Maria
+      alt: Capela Fecioara Maria din Coștiui
+      href: https://costiui.ml/capela/fecioara-maria
+      
+    - src: https://costiui.ml//images/bazin_costiui.jpg
+      title: Băile Coștiui
+      alt: băile sărate de la Coștiui
+      href: https://costiui.ml/balneare/baile-sarate
+      
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect: 
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: slider2
+  bullets: true
+  captions: true
+  images:
+    - src: /img/1.jpg
+      title: Balloons!
+      alt: This slider has caption titles
+    - data-src: /img/2.jpg
+      title: This slider uses the fade effect
+      alt: Instead of the default slide effect
+    - data-src: /img/3.jpg
+      data-src-2x: /img/3@2x.jpg
+    - src: /img/4.jpg
+      title: Last image had no caption!
+      alt: Also, this image has no link
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: slider3
+  images:
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
+    - src: /img/4.jpg
+      alt: image four
+  settings:
+    height: "'auto'"
+    disableNav: true
