@@ -33,7 +33,28 @@ feature_row:
     excerpt: "I have the joy of preaching and teaching regularly for churches and events. View a collection of my recent sermons and videos."
     url: "/sermons/"
     btn_class: "btn--primary"
-    btn_label: "Citește mai departe"      
+    btn_label: "Citește mai departe"   
+    
+    
+    feature_row:
+  - title: "Article Collection"
+    image_path: https://cdn.costiui.eu.org/500x300/costiui2020.png
+    excerpt: "I write regularly on church and missions, both international and North American. You can find all of my articles here by year."
+    url: "/posts/"
+    btn_class: "btn--primary"
+    btn_label: "Citește mai departe"
+  - title: "Commonplace Book"
+    image_path: https://cdn.costiui.eu.org/500x300/ronaszek-kep.jpg
+    excerpt: "My commonplace book is where I do my thinking in public. You can explore my public notes on any number of topics."
+    url: "https://costiui.ml"
+    btn_class: "btn--primary"
+    btn_label: "Citește mai departe"
+  - title: "Sermons"
+    image_path: https://cdn.costiui.eu.org/500x300/panoramic_baile.png
+    excerpt: "I have the joy of preaching and teaching regularly for churches and events. View a collection of my recent sermons and videos."
+    url: "/sermons/"
+    btn_class: "btn--primary"
+    btn_label: "Citește mai departe"   
 ---
 
 {% include feature_row id="intro" type="center" %}
