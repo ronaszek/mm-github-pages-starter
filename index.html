@@ -7,7 +7,12 @@ header:
   overlay_color: "#5e616c"
   overlay_image: https://kiwichat.ml/assets/images/blog-1200x400.png
 tagline: >
-  Him we proclaim, warning everyone and teaching everyone with all wisdom, that we may present everyone mature in Christ.<br/> ~ Colossians 1:28 
+  Him we proclaim, warning everyone and teaching everyone with all wisdom, that we may present everyone mature in Christ.<br/> ~ Colossians 1:28
+
+image_sliders:
+  - slider1
+  - slider2
+  - slider3
 
 intro: 
   - excerpt: The online home for my articles and publications, public research notes, and the projects about which I am most excited.
@@ -35,7 +40,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Watch"      
 ---
-
+{% include slider.html selector="slider1" %}
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
