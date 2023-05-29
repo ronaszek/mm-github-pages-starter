@@ -35,7 +35,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Citește mai departe"      
 ---
-{% include slider.html selector="slider1" %}
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
