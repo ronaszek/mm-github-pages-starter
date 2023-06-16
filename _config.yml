@@ -99,12 +99,8 @@ footer:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/"
-    - label: "Tumblr"
-      icon: "fab fa-fw fa-tumblr"
-      url: "https://tumblr.com/"
-    - label: "Flickr"
-      icon: "fab fa-fw fa-flickr"
-      url: "https://flickr.com/"
+   
+    
 
 defaults:
   # _posts
