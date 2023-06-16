@@ -81,6 +81,9 @@ author:
 
 footer:
   links:
+   - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -90,6 +93,18 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Vimeo"
+      icon: "fab fa-fw fa-vimeo"
+      url: "https://vimeo.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/"
+    - label: "Tumblr"
+      icon: "fab fa-fw fa-tumblr"
+      url: "https://tumblr.com/"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://flickr.com/"
 
 defaults:
   # _posts
