@@ -93,13 +93,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-    - label: "Vimeo"
-      icon: "fab fa-fw fa-vimeo"
-      url: "https://vimeo.com/"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"
-   
     
 
 defaults:
